@@ -1,0 +1,940 @@
+fileFormatVersion: 2
+guid: a25048b48e45261489ade0df64dce1df
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3816454968858091012
+    second: Ninja Idle + run + attack + dash + hurt + death (1)_0
+  - first:
+      213: 6224566963150920391
+    second: Ninja Idle + run + attack + dash + hurt + death (1)_1
+  - first:
+      213: 5475509506915132992
+    second: Ninja Idle + run + attack + dash + hurt + death (1)_2
+  - first:
+      213: 3248921194069091993
+    second: Ninja Idle + run + attack + dash + hurt + death (1)_3
+  - first:
+      213: 768155741937248495
+    second: Ninja Idle + run + attack + dash + hurt + death (1)_4
+  - first:
+      213: -4145460021010889379
+    second: Ninja Idle + run + attack + dash + hurt + death (1)_5
+  - first:
+      213: 3990446210413938101
+    second: Ninja Idle + run + attack + dash + hurt + death (1)_6
+  - first:
+      213: -454565081830634257
+    second: Ninja Idle + run + attack + dash + hurt + death (1)_7
+  - first:
+      213: 7720732954313679316
+    second: Ninja Idle + run + attack + dash + hurt + death (1)_8
+  - first:
+      213: 242789420762476446
+    second: Ninja Idle + run + attack + dash + hurt + death (1)_9
+  - first:
+      213: -2391799642850278607
+    second: Ninja Idle + run + attack + dash + hurt + death (1)_10
+  - first:
+      213: 1716503133238971103
+    second: Ninja Idle + run + attack + dash + hurt + death (1)_11
+  - first:
+      213: 3303547538115014416
+    second: Ninja Idle + run + attack + dash + hurt + death (1)_12
+  - first:
+      213: 8010380068889994727
+    second: Ninja Idle + run + attack + dash + hurt + death (1)_13
+  - first:
+      213: -1919496027638440621
+    second: Ninja Idle + run + attack + dash + hurt + death (1)_14
+  - first:
+      213: -7930472968964622047
+    second: Ninja Idle + run + attack + dash + hurt + death (1)_15
+  - first:
+      213: 3914489701157443134
+    second: Ninja Idle + run + attack + dash + hurt + death (1)_16
+  - first:
+      213: -2595217108872885403
+    second: Ninja Idle + run + attack + dash + hurt + death (1)_17
+  - first:
+      213: 7678134705823170133
+    second: Ninja Idle + run + attack + dash + hurt + death (1)_18
+  - first:
+      213: -5975291865373523234
+    second: Ninja Idle + run + attack + dash + hurt + death (1)_19
+  - first:
+      213: -5944944967254348945
+    second: Ninja Idle + run + attack + dash + hurt + death (1)_20
+  - first:
+      213: 2843866709570477052
+    second: Ninja Idle + run + attack + dash + hurt + death (1)_21
+  - first:
+      213: -7494843285038608398
+    second: Ninja Idle + run + attack + dash + hurt + death (1)_22
+  - first:
+      213: 2196172304841837286
+    second: Ninja Idle + run + attack + dash + hurt + death (1)_23
+  - first:
+      213: -8378963440651289055
+    second: Ninja Idle + run + attack + dash + hurt + death (1)_24
+  - first:
+      213: -7028707219249936961
+    second: Ninja Idle + run + attack + dash + hurt + death (1)_25
+  - first:
+      213: -792536165852119852
+    second: Ninja Idle + run + attack + dash + hurt + death (1)_26
+  - first:
+      213: -8479953013423241852
+    second: Ninja Idle + run + attack + dash + hurt + death (1)_27
+  - first:
+      213: -2468486425561699511
+    second: Ninja Idle + run + attack + dash + hurt + death (1)_28
+  - first:
+      213: 7867769673523645031
+    second: Ninja Idle + run + attack + dash + hurt + death (1)_29
+  - first:
+      213: 1419967460093544301
+    second: Ninja Idle + run + attack + dash + hurt + death (1)_30
+  - first:
+      213: 1915634067723831459
+    second: Ninja Idle + run + attack + dash + hurt + death (1)_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ninja Idle + run + attack + dash + hurt + death (1)_0
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 387
+        width: 17
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf160ff1d6a390bc0800000000000000
+      internalID: -3816454968858091012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja Idle + run + attack + dash + hurt + death (1)_1
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 387
+        width: 17
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ca1e3f7caa126650800000000000000
+      internalID: 6224566963150920391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja Idle + run + attack + dash + hurt + death (1)_2
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 387
+        width: 17
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04663f3d2eaecfb40800000000000000
+      internalID: 5475509506915132992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja Idle + run + attack + dash + hurt + death (1)_3
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 387
+        width: 17
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 996e9bbcc9c761d20800000000000000
+      internalID: 3248921194069091993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja Idle + run + attack + dash + hurt + death (1)_4
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 323
+        width: 21
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe8a852d39909aa00800000000000000
+      internalID: 768155741937248495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja Idle + run + attack + dash + hurt + death (1)_5
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 323
+        width: 20
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d550011131e5876c0800000000000000
+      internalID: -4145460021010889379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja Idle + run + attack + dash + hurt + death (1)_6
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 323
+        width: 20
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b5c603afa9e06730800000000000000
+      internalID: 3990446210413938101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja Idle + run + attack + dash + hurt + death (1)_7
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 323
+        width: 22
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fec403a677f01b9f0800000000000000
+      internalID: -454565081830634257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja Idle + run + attack + dash + hurt + death (1)_8
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 323
+        width: 19
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d1e48b37bd852b60800000000000000
+      internalID: 7720732954313679316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja Idle + run + attack + dash + hurt + death (1)_9
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 323
+        width: 18
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9f25cb11bf8e5300800000000000000
+      internalID: 242789420762476446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja Idle + run + attack + dash + hurt + death (1)_10
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 259
+        width: 26
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 133c00aa5ee9eced0800000000000000
+      internalID: -2391799642850278607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja Idle + run + attack + dash + hurt + death (1)_11
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 259
+        width: 23
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdacd88518e32d710800000000000000
+      internalID: 1716503133238971103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja Idle + run + attack + dash + hurt + death (1)_12
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 259
+        width: 41
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01f26f3abfe88dd20800000000000000
+      internalID: 3303547538115014416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja Idle + run + attack + dash + hurt + death (1)_13
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 259
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e5ae0a5b369a2f60800000000000000
+      internalID: 8010380068889994727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja Idle + run + attack + dash + hurt + death (1)_14
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 195
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35d56d468849c55e0800000000000000
+      internalID: -1919496027638440621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja Idle + run + attack + dash + hurt + death (1)_15
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 195
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 129b6082adc41f190800000000000000
+      internalID: -7930472968964622047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja Idle + run + attack + dash + hurt + death (1)_16
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 195
+        width: 43
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e361a62b4af035630800000000000000
+      internalID: 3914489701157443134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja Idle + run + attack + dash + hurt + death (1)_17
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 195
+        width: 24
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56b8d9e1acfebfbd0800000000000000
+      internalID: -2595217108872885403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja Idle + run + attack + dash + hurt + death (1)_18
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 131
+        width: 31
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55e303e95d63e8a60800000000000000
+      internalID: 7678134705823170133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja Idle + run + attack + dash + hurt + death (1)_19
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 136
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed24127f4bf731da0800000000000000
+      internalID: -5975291865373523234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja Idle + run + attack + dash + hurt + death (1)_20
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 140
+        width: 23
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6bee89cc005f7da0800000000000000
+      internalID: -5944944967254348945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja Idle + run + attack + dash + hurt + death (1)_21
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 131
+        width: 41
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfbd18474b1777720800000000000000
+      internalID: 2843866709570477052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja Idle + run + attack + dash + hurt + death (1)_22
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 184
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ff4d0cddb7fcf790800000000000000
+      internalID: -7494843285038608398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja Idle + run + attack + dash + hurt + death (1)_23
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 131
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ea06af431f5a7e10800000000000000
+      internalID: 2196172304841837286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja Idle + run + attack + dash + hurt + death (1)_24
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 131
+        width: 38
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12ebef5f421f7bb80800000000000000
+      internalID: -8378963440651289055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja Idle + run + attack + dash + hurt + death (1)_25
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 67
+        width: 43
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb542661604057e90800000000000000
+      internalID: -7028707219249936961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja Idle + run + attack + dash + hurt + death (1)_26
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 4
+        width: 19
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dcfbb26e885005f0800000000000000
+      internalID: -792536165852119852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja Idle + run + attack + dash + hurt + death (1)_27
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 3
+        width: 18
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48587eab9a7215a80800000000000000
+      internalID: -8479953013423241852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja Idle + run + attack + dash + hurt + death (1)_28
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 3
+        width: 18
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94b658facac2ebdd0800000000000000
+      internalID: -2468486425561699511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja Idle + run + attack + dash + hurt + death (1)_29
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 3
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76ac7f435deef2d60800000000000000
+      internalID: 7867769673523645031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja Idle + run + attack + dash + hurt + death (1)_30
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 3
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d674d73b1ecb4b310800000000000000
+      internalID: 1419967460093544301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ninja Idle + run + attack + dash + hurt + death (1)_31
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 3
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a8c05ef803b59a10800000000000000
+      internalID: 1915634067723831459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Ninja Idle + run + attack + dash + hurt + death (1)_0: -3816454968858091012
+      Ninja Idle + run + attack + dash + hurt + death (1)_1: 6224566963150920391
+      Ninja Idle + run + attack + dash + hurt + death (1)_10: -2391799642850278607
+      Ninja Idle + run + attack + dash + hurt + death (1)_11: 1716503133238971103
+      Ninja Idle + run + attack + dash + hurt + death (1)_12: 3303547538115014416
+      Ninja Idle + run + attack + dash + hurt + death (1)_13: 8010380068889994727
+      Ninja Idle + run + attack + dash + hurt + death (1)_14: -1919496027638440621
+      Ninja Idle + run + attack + dash + hurt + death (1)_15: -7930472968964622047
+      Ninja Idle + run + attack + dash + hurt + death (1)_16: 3914489701157443134
+      Ninja Idle + run + attack + dash + hurt + death (1)_17: -2595217108872885403
+      Ninja Idle + run + attack + dash + hurt + death (1)_18: 7678134705823170133
+      Ninja Idle + run + attack + dash + hurt + death (1)_19: -5975291865373523234
+      Ninja Idle + run + attack + dash + hurt + death (1)_2: 5475509506915132992
+      Ninja Idle + run + attack + dash + hurt + death (1)_20: -5944944967254348945
+      Ninja Idle + run + attack + dash + hurt + death (1)_21: 2843866709570477052
+      Ninja Idle + run + attack + dash + hurt + death (1)_22: -7494843285038608398
+      Ninja Idle + run + attack + dash + hurt + death (1)_23: 2196172304841837286
+      Ninja Idle + run + attack + dash + hurt + death (1)_24: -8378963440651289055
+      Ninja Idle + run + attack + dash + hurt + death (1)_25: -7028707219249936961
+      Ninja Idle + run + attack + dash + hurt + death (1)_26: -792536165852119852
+      Ninja Idle + run + attack + dash + hurt + death (1)_27: -8479953013423241852
+      Ninja Idle + run + attack + dash + hurt + death (1)_28: -2468486425561699511
+      Ninja Idle + run + attack + dash + hurt + death (1)_29: 7867769673523645031
+      Ninja Idle + run + attack + dash + hurt + death (1)_3: 3248921194069091993
+      Ninja Idle + run + attack + dash + hurt + death (1)_30: 1419967460093544301
+      Ninja Idle + run + attack + dash + hurt + death (1)_31: 1915634067723831459
+      Ninja Idle + run + attack + dash + hurt + death (1)_4: 768155741937248495
+      Ninja Idle + run + attack + dash + hurt + death (1)_5: -4145460021010889379
+      Ninja Idle + run + attack + dash + hurt + death (1)_6: 3990446210413938101
+      Ninja Idle + run + attack + dash + hurt + death (1)_7: -454565081830634257
+      Ninja Idle + run + attack + dash + hurt + death (1)_8: 7720732954313679316
+      Ninja Idle + run + attack + dash + hurt + death (1)_9: 242789420762476446
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
