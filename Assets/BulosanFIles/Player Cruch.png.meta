@@ -156,7 +156,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Player Cruch_0: 5629456976771207580
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

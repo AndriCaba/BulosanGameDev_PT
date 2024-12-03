@@ -276,7 +276,13 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      FX - Smoke Jump_0: 1518810145657492542
+      FX - Smoke Jump_1: 6873514033243567370
+      FX - Smoke Jump_2: 4432498915414850221
+      FX - Smoke Jump_3: 8973246056350338958
+      FX - Smoke Jump_4: 1013526755748588231
+      FX - Smoke Jump_5: 8695430831972345108
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

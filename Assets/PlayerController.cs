@@ -4,7 +4,6 @@ using UnityEngine;
 
 public class PlayerController : MonoBehaviour
 {
-    // Start is called before the first frame update
     [Header("Movement")]
     public float moveSpeed = 5f;
     public float jumpForce = 10f;
@@ -19,7 +18,15 @@ public class PlayerController : MonoBehaviour
     public LayerMask groundLayer;
     private bool isGrounded;
 
+    [Header("Attack")]
+    public Transform attackPoint;
+    public float attackRange = 0.5f;
+    public LayerMask enemyLayer;
+    public int attackDamage = 10;
+    public float attackCooldown = 0.5f; // Time between attacks
+
     private float moveInput;
+    private bool canAttack = true; // Control attack cooldown
 
     void Start()
     {
@@ -47,9 +54,9 @@ public class PlayerController : MonoBehaviour
         }
 
         // Attack Input
-        if (Input.GetButtonDown("Fire1"))
+        if (Input.GetButtonDown("Fire1") && canAttack)
         {
-            animator.SetTrigger("Attack");
+            Attack();
         }
 
         // Update Animator Parameters
@@ -61,5 +68,39 @@ public class PlayerController : MonoBehaviour
     {
         // Ground Check
         isGrounded = Physics2D.OverlapCircle(groundCheck.position, 0.1f, groundLayer);
+    }
+
+    void Attack()
+    {
+        // Trigger attack animation
+        animator.SetTrigger("Attack");
+
+        // Detect enemies in range
+        Collider2D[] hitEnemies = Physics2D.OverlapCircleAll(attackPoint.position, attackRange, enemyLayer);
+
+        // Apply damage to each enemy
+        foreach (Collider2D enemy in hitEnemies)
+        {
+            Vector2 attackPosition = transform.position;
+            enemy.GetComponent<Enemy_health>().TakeDamage(attackDamage, attackPosition);
+        }
+
+        // Start cooldown
+        StartCoroutine(AttackCooldown());
+    }
+
+    IEnumerator AttackCooldown()
+    {
+        canAttack = false; // Disable attack
+        yield return new WaitForSeconds(attackCooldown); // Wait for cooldown duration
+        canAttack = true; // Re-enable attack
+    }
+
+    private void OnDrawGizmosSelected()
+    {
+        if (attackPoint == null) return;
+
+        Gizmos.color = Color.red;
+        Gizmos.DrawWireSphere(attackPoint.position, attackRange);
     }
 }

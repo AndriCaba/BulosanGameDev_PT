@@ -228,7 +228,11 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Player Air Sword Attack-Sheet_0: 8474507937281638851
+      Player Air Sword Attack-Sheet_1: 1992108354179787272
+      Player Air Sword Attack-Sheet_2: -2065347027361977545
+      Player Air Sword Attack-Sheet_3: -8322045631206673738
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
