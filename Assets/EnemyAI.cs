@@ -14,6 +14,7 @@ public class EnemyAI : MonoBehaviour
     [Header("Movement Settings")]
     public float moveSpeed = 2f;
     public float retreatDistance = 2f;
+    public float separationDistance = 1f; // Minimum distance between enemies
 
     [Header("Damage Effects")]
     public float knockbackForce = 5f; // Force applied when taking damage
@@ -68,6 +69,9 @@ public class EnemyAI : MonoBehaviour
         {
             Idle();
         }
+
+        // Avoid collision with other enemies
+        AvoidCollisionsWithEnemies();
     }
 
     void ChasePlayer()
@@ -139,6 +143,21 @@ public class EnemyAI : MonoBehaviour
     {
         animator.SetBool("isWalking", false);
         rb.velocity = new Vector2(0, rb.velocity.y); // Stop horizontal movement
+    }
+
+    // Avoid collisions with other enemies
+    void AvoidCollisionsWithEnemies()
+    {
+        Collider2D[] nearbyEnemies = Physics2D.OverlapCircleAll(transform.position, separationDistance, LayerMask.GetMask("enemyLayer"));
+
+        foreach (Collider2D enemy in nearbyEnemies)
+        {
+            if (enemy != this.GetComponent<Collider2D>()) // Avoid self-check
+            {
+                Vector2 directionAwayFromEnemy = (transform.position - enemy.transform.position).normalized;
+                rb.velocity += directionAwayFromEnemy * moveSpeed * Time.deltaTime;
+            }
+        }
     }
 
     public void TakeDamage(int damage, Vector2 attackerPosition)
