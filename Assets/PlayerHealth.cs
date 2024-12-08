@@ -1,7 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
+using UnityEngine.SceneManagement;
 public class PlayerHealth : MonoBehaviour
 {
     [Header("Scripts")]
@@ -33,6 +33,15 @@ public class PlayerHealth : MonoBehaviour
         {
             healthBar.SetMaxHealth(maxHealth); // Initialize the health bar
         }
+    }
+    void Update(){
+
+
+if(Input.GetKeyDown(KeyCode.K)){
+    Die();
+
+}
+
     }
 
     public void TakeDamage(int damage, Vector2 attackerPosition)
@@ -99,6 +108,7 @@ public class PlayerHealth : MonoBehaviour
 
     void Die()
     {
+        SceneManager.LoadScene(SceneManager.GetActiveScene().name);
         Debug.Log("Player has died!");
         // Add player death logic here, such as restarting the level or triggering animations
         Destroy(gameObject); // Destroy the player object (optional)

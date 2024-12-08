@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class Enemy_health : MonoBehaviour
 {
+     public Collider objectCollider;
     public int health = 20;
     public float knockbackForce = 5f;
     public float flashDuration = 0.1f;
@@ -15,6 +16,7 @@ public class Enemy_health : MonoBehaviour
 
     void Start()
     {
+        objectCollider = GetComponent<Collider>();
         spriteRenderer = GetComponent<SpriteRenderer>();
         rb = GetComponent<Rigidbody2D>();
         Movementscript = GetComponent<EnemyAI>();
@@ -52,6 +54,8 @@ public class Enemy_health : MonoBehaviour
 
     void Die()
     {
+        
+        //objectCollider.enabled = false;
         Debug.Log("Enemy died!");
 
         // Trigger the death animation
@@ -68,7 +72,8 @@ public class Enemy_health : MonoBehaviour
     IEnumerator DestroyAfterAnimation()
     {
         // Wait for the death animation to finish
-        yield return new WaitForSeconds(5f);
+        yield return new WaitForSeconds(4f);
         Destroy(gameObject);
+        FindObjectOfType<EnemyKillCounter>().OnEnemyKilled();
     }
 }

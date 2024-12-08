@@ -33,13 +33,16 @@ public class EnemyAI : MonoBehaviour
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
-        animator = GetComponent<Animator>();
-        spriteRenderer = GetComponent<SpriteRenderer>();
+    animator = GetComponent<Animator>();
+    spriteRenderer = GetComponent<SpriteRenderer>();
 
-        if (player == null)
-        {
-            Debug.LogWarning("Player reference not set. Please assign the player in the inspector.");
-        }
+    // Automatically find the player with tag "Player"
+    player = GameObject.FindWithTag("Player")?.transform;
+
+    if (player == null)
+    {
+        Debug.LogWarning("Player reference not found. Make sure the player GameObject is tagged as 'Player'.");
+    }
     }
 
     void Update()
